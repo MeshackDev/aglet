@@ -1,0 +1,17 @@
+.home {
+  overflow-x: scroll;
+  height: 100%;
+
+  &::-webkit-scrollbar {
+    width: 3px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #000;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgb(56, 54, 54);
+    border-radius: 25px;
+  }
+}
