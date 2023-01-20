@@ -1,6 +1,5 @@
 {
   "name": "aglet",
-  "homepage": "https://MeshackDev.github.io/aglet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
